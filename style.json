@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "tier": 1,
+  "book": {
+    "title": "Railway Bridge Bearings: Functions, Types and Selection",
+    "slug": "railway-bridge-bearings",
+    "language": "en",
+    "readers": "Practising railway civil engineers and engineering trainees",
+    "pilot": "Interactive showcase prototype"
+  },
+  "words": "Create a clear technical English showcase with code-built diagrams, visible motion, load-transfer steps, numerical input fields, and knowledge checks. Do not invent standards, design values, or requirements.",
+  "look": {
+    "palette": "navy ink, engineering blue, teal interface, orange motion arrows, warm paper background",
+    "notation": "SI units; preserve source rounding",
+    "status": "draft showcase pending source register"
+  },
+  "voice": {"tts": "none in prototype", "voice": "TBD", "rate": "TBD"},
+  "pacing": {"minutes": "TBD", "checks": "one draft knowledge check"},
+  "engine": "standalone static showcase using Papermorph lesson principles; full engine integration pending dependency and source intake",
+  "components": ["load path", "fixed/guided/free cards", "motion lab", "numerical explorer", "knowledge check"],
+  "sources": [],
+  "models": {"extract": "TBD", "narration": "TBD", "picture": "TBD", "checks": "TBD", "review": "TBD", "rework": "TBD", "register": "TBD"},
+  "approved": []
+}
